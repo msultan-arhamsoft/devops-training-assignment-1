@@ -25,3 +25,21 @@ A few of the major benefits of Cloud Computing are:
 - Collaboration efficiency
 - Flexibility of work practices
 - Access to automatic updates
+
+## 4- Difference b/w Git & Github ##
+### Git ###
+- Git is a software.
+- Git is a command-line tool
+- Git is installed locally on the system
+- Git is maintained by linux.
+- Git is focused on version control and code sharing.
+- Git is a version control system to manage source code history.
+- Git has no user management feature.
+### GitHub ###
+- GitHub is a service.
+- GitHub is a graphical user interface
+- GitHub is hosted on the web
+- GitHub is maintained by microsoft.
+- GitHub is focused on centralized source code hosting.
+- GitHub is a hosting service for Git repositories.
+- GitHub has built-in user management feature.
