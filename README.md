@@ -43,3 +43,9 @@ A few of the major benefits of Cloud Computing are:
 - GitHub is focused on centralized source code hosting.
 - GitHub is a hosting service for Git repositories.
 - GitHub has built-in user management feature.
+
+## 5- Stages of Git ##
+Following are the stages of the Git;
+- Modified
+- Staged
+- Commit
